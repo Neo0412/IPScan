@@ -5,5 +5,5 @@ This PowerShell script allows you to scan a range of IP addresses specified in t
 
 Features:
 
-- IP Range Scanning: Specify IP addresses in the format 192.168.1.1-255 to scan a range of IP addresses.
+- IP Range Scanning: Specify IP addresses in the format 192.168.1.1-255 or 192.168.1.1-192.168.1.255 to scan a range of IP addresses.
 - Hostname Resolution: Optionally, you can enable hostname resolution for scanned IP addresses. This feature will resolve hostnames for each IP address, providing you with additional information. However, please note that enabling this feature will increase the scan time.
