@@ -1,7 +1,7 @@
 Description:
 Welcome to the PowerShell IP Scanner repository!
 
-This PowerShell script allows you to scan a range of IP addresses specified in the following format: 192.168.1.1-255. It's a handy tool for network administrators or anyone interested in quickly identifying active hosts within a given range.
+This PowerShell script allows you to scan a range of IP addresses specified in the following format: 192.168.1.1-255. It's a handy tool for network administrators or anyone interested in quickly identifying active hosts within a given range. Please note that I have only created this script for practice purposes :)
 
 Features:
 
